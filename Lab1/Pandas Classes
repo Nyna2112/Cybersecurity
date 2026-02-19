@@ -1,0 +1,5 @@
+DataFrame: This is a 2-D table (rows + columns), similar to an Excel sheet used to store and handle data in a structured way.
+Series: A 1-D labeled array storing a single column of values along with an index.
+Index: This system of labels for rows or columns assists with alignment, selection, and joining data, all done securely.
+Timestamp: A time-related object provided by Pandas, useful for easier filtering, sorting, and resampling by time.
+Categorical: A memory-efficient data type suitable for handling repeated values, such as attack types and severities.
